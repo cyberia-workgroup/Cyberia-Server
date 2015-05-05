@@ -16,7 +16,7 @@
     "express"
   ],
   "author": "BHesse <bdhesse@gmail.com>",
-  "license": "LGPL",
+  "license": "GPLv3",
   "bugs": {
     "url": "https://github.com/brandonhesse/Cyberia-Server/issues"
   },
@@ -50,6 +50,7 @@
     "blessed": "^0.1.56",
     "chai": "^2.3.0",
     "jslint": "^0.9.0-pre006",
+    "license-checker": "^3.0.1",
     "mocha": "^2.2.4",
     "supertest": "^0.15.0"
   }

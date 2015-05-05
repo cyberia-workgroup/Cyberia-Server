@@ -13,7 +13,7 @@
   "keywords": [
     "node"
   ],
-  "license": "LGPL",
+  "license": "GPLv3",
   "private": true,
   "ignore": [
     "**/.*",

@@ -1,0 +1,1372 @@
+{
+  "abbrev@1.0.5": {
+    "licenses": "MIT",
+    "repository": "http://github.com/isaacs/abbrev-js",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/nopt/node_modules/abbrev/LICENSE"
+  },
+  "accepts@1.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/accepts",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/node_modules/accepts/LICENSE"
+  },
+  "addressparser@0.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/addressparser",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/buildmail/node_modules/addressparser/LICENSE"
+  },
+  "amdefine@0.1.0": {
+    "licenses": [
+      "BSD",
+      "MIT"
+    ],
+    "repository": "https://github.com/jrburke/amdefine",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/LICENSE"
+  },
+  "ansi-regex@0.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/ansi-regex"
+  },
+  "ansi-regex@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/ansi-regex",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license"
+  },
+  "ansi-styles@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/ansi-styles"
+  },
+  "ansi-styles@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/ansi-styles",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/license"
+  },
+  "ansi@0.3.0": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/TooTallNate/ansi.js"
+  },
+  "are-we-there-yet@1.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/are-we-there-yet"
+  },
+  "asap@1.0.0": {
+    "licenses": "MIT",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/readdir-scoped-modules/node_modules/dezalgo/node_modules/asap/LICENSE.md"
+  },
+  "asn1@0.1.11": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/mcavage/node-asn1",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/asn1/LICENSE"
+  },
+  "assert-plus@0.1.5": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/mcavage/node-assert-plus"
+  },
+  "assertion-error@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/assertion-error"
+  },
+  "async@0.2.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/caolan/async",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/node_modules/async/LICENSE"
+  },
+  "async@0.9.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/caolan/async",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/form-data/node_modules/async/LICENSE"
+  },
+  "aws-sign2@0.5.0": {
+    "licenses": "Apache*",
+    "repository": "https://github.com/mikeal/aws-sign",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/aws-sign2/LICENSE"
+  },
+  "balanced-match@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match"
+  },
+  "base64-url@1.2.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/joaquimserafim/base64-url",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express-session/node_modules/uid-safe/node_modules/base64-url/LICENSE"
+  },
+  "basic-auth@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-basic-auth"
+  },
+  "bcrypt@0.8.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ncb000gt/node.bcrypt.js",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/bcrypt/LICENSE"
+  },
+  "bindings@1.2.0": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/TooTallNate/node-bindings"
+  },
+  "bl@0.9.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/bl",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/bl/LICENSE.md"
+  },
+  "blessed@0.1.56": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/chjj/blessed",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/blessed/LICENSE"
+  },
+  "block-stream@0.0.7": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/block-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar/node_modules/block-stream/LICENCE"
+  },
+  "bluebird@2.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/petkaantonov/bluebird",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mquery/node_modules/bluebird/LICENSE"
+  },
+  "bluebird@2.9.25": {
+    "licenses": "MIT",
+    "repository": "https://github.com/petkaantonov/bluebird",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/bluebird/LICENSE"
+  },
+  "body-parser@1.12.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/body-parser",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/LICENSE"
+  },
+  "boom@2.7.1": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hapijs/boom",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/boom/LICENSE"
+  },
+  "brace-expansion@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion"
+  },
+  "bson-ext@0.1.3": {
+    "licenses": "Apache License, Version 2.0",
+    "repository": "https://github.com/christkv/bson-ext",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/LICENSE"
+  },
+  "bson@0.3.1": {
+    "licenses": "Apache License, Version 2.0",
+    "repository": "https://github.com/mongodb/js-bson",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/LICENSE"
+  },
+  "buildmail@1.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/buildmail",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/buildmail/LICENSE"
+  },
+  "busboy@0.2.9": {
+    "licenses": "MIT",
+    "repository": "http://github.com/mscdex/busboy",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/node_modules/busboy/LICENSE"
+  },
+  "bytes@1.0.0": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/bytes.js"
+  },
+  "camelcase@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/camelcase"
+  },
+  "caseless@0.9.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/mikeal/caseless"
+  },
+  "chai@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/chai"
+  },
+  "chalk@0.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/chalk"
+  },
+  "chalk@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/chalk",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/license"
+  },
+  "combined-stream@0.0.7": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/combined-stream/License"
+  },
+  "commander@0.6.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/commander.js"
+  },
+  "commander@2.3.0": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/visionmedia/commander.js"
+  },
+  "commander@2.8.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/tj/commander.js",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/LICENSE"
+  },
+  "component-emitter@1.1.2": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/component/emitter"
+  },
+  "compressible@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/compressible",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/node_modules/compressible/LICENSE"
+  },
+  "compression@1.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/compression",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/LICENSE"
+  },
+  "concat-map@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-concat-map",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE"
+  },
+  "connect-mongo@0.8.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/kcbanner/connect-mongo"
+  },
+  "content-disposition@0.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-disposition",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/content-disposition/LICENSE"
+  },
+  "content-type@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/content-type",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/content-type/LICENSE"
+  },
+  "cookie-parser@1.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/cookie-parser",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/cookie-parser/LICENSE"
+  },
+  "cookie-session@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/cookie-session",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/cookie-session/LICENSE"
+  },
+  "cookie-signature@1.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-cookie-signature"
+  },
+  "cookie@0.1.2": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/shtylman/node-cookie",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/cookie-parser/node_modules/cookie/LICENSE"
+  },
+  "cookiejar@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/bmeck/node-cookiejar",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/cookiejar/LICENSE"
+  },
+  "cookies@0.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/cookies",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/cookie-session/node_modules/cookies/LICENSE.txt"
+  },
+  "core-util-is@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/core-util-is"
+  },
+  "crc@3.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexgorbatchev/node-crc",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/etag/node_modules/crc/LICENSE"
+  },
+  "cryptiles@2.0.4": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hapijs/cryptiles",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/cryptiles/LICENSE"
+  },
+  "ctype@0.5.3": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/rmustacc/node-ctype",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/node_modules/ctype/LICENSE"
+  },
+  "cyberia-server@0.0.1": {
+    "licenses": "GPLv3",
+    "repository": "https://github.com/brandonhesse/Cyberia-Server",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/license-check"
+  },
+  "debug@0.7.4": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/debug"
+  },
+  "debug@2.0.0": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/debug"
+  },
+  "debug@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/debug"
+  },
+  "debuglog@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sam-github/node-debuglog",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/debuglog/LICENSE"
+  },
+  "decamelize@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/decamelize"
+  },
+  "deep-eql@0.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/deep-eql"
+  },
+  "deep-extend@0.2.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/unclechu/node-deep-extend",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rc/node_modules/deep-extend/LICENSE"
+  },
+  "delayed-stream@0.0.5": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/combined-stream/node_modules/delayed-stream/License"
+  },
+  "delegates@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-delegates"
+  },
+  "depd@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/dougwilson/nodejs-depd",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/depd/LICENSE"
+  },
+  "destroy@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/destroy"
+  },
+  "dezalgo@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/dezalgo"
+  },
+  "dicer@0.2.3": {
+    "licenses": "MIT",
+    "repository": "http://github.com/mscdex/dicer",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/node_modules/busboy/node_modules/dicer/LICENSE"
+  },
+  "diff@1.0.8": {
+    "licenses": "BSD",
+    "repository": "https://github.com/kpdecker/jsdiff"
+  },
+  "duplexer2@0.0.2": {
+    "licenses": "BSD",
+    "repository": "https://github.com/deoxxa/duplexer2",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/hyperquest/node_modules/duplexer2/LICENSE.md"
+  },
+  "ee-first@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonathanong/ee-first",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/LICENSE"
+  },
+  "errorhandler@1.3.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/errorhandler",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/errorhandler/LICENSE"
+  },
+  "escape-html@1.0.1": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/component/escape-html"
+  },
+  "escape-string-regexp@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp"
+  },
+  "escape-string-regexp@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/escape-string-regexp/license"
+  },
+  "etag@1.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/etag",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/etag/LICENSE"
+  },
+  "exit@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/cowboy/node-exit",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/jslint/node_modules/exit/LICENSE-MIT"
+  },
+  "express-session@1.11.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/session",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express-session/LICENSE"
+  },
+  "express-validate@0.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Dream-Web/express-validate"
+  },
+  "express@4.12.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/strongloop/express",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/LICENSE"
+  },
+  "extend@1.2.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/justmoon/node-extend"
+  },
+  "finalhandler@0.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/finalhandler",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/finalhandler/LICENSE"
+  },
+  "forever-agent@0.6.1": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/mikeal/forever-agent",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/forever-agent/LICENSE"
+  },
+  "form-data@0.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-form-data",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/form-data/License"
+  },
+  "form-data@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-form-data",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/form-data/License"
+  },
+  "formidable@1.0.14": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/felixge/node-formidable",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/formidable/LICENSE"
+  },
+  "forwarded@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/forwarded",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/LICENSE"
+  },
+  "fresh@0.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/fresh",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/fresh/LICENSE"
+  },
+  "fstream-ignore@0.0.7": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/fstream-ignore",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream-ignore/LICENSE"
+  },
+  "fstream@0.1.31": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/fstream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream/LICENSE"
+  },
+  "fstream@1.0.4": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/fstream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar/node_modules/fstream/LICENSE"
+  },
+  "gauge@1.2.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/gauge",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/LICENSE"
+  },
+  "generate-function@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mafintosh/generate-function"
+  },
+  "generate-object-property@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mafintosh/generate-object-property",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/LICENSE"
+  },
+  "get-stdin@4.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/get-stdin"
+  },
+  "github-url-from-git@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-github-url-from-git",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/node_modules/normalize-package-data/node_modules/github-url-from-git/LICENSE"
+  },
+  "github-url-from-username-repo@1.0.2": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/robertkowalski/github-url-from-username-repo",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/node_modules/normalize-package-data/node_modules/github-url-from-username-repo/LICENSE"
+  },
+  "glob@3.2.3": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/node-glob",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mocha/node_modules/glob/LICENSE"
+  },
+  "glob@4.5.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/LICENSE"
+  },
+  "glob@5.0.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/node_modules/glob/LICENSE"
+  },
+  "graceful-fs@1.2.3": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/node-graceful-fs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/graceful-fs/LICENSE"
+  },
+  "graceful-fs@2.0.3": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/node-graceful-fs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mocha/node_modules/glob/node_modules/graceful-fs/LICENSE"
+  },
+  "graceful-fs@3.0.6": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/node-graceful-fs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar/node_modules/fstream/node_modules/graceful-fs/LICENSE"
+  },
+  "graceful-readlink@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zhiyelee/graceful-readlink",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/LICENSE"
+  },
+  "growl@1.8.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/node-growl"
+  },
+  "har-validator@1.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ahmadnassri/har-validator",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/LICENSE"
+  },
+  "has-ansi@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-ansi"
+  },
+  "has-ansi@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-ansi",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/has-ansi/license"
+  },
+  "has-unicode@1.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/iarna/has-unicode",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-unicode/LICENSE"
+  },
+  "hawk@2.3.1": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hueniverse/hawk",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/LICENSE"
+  },
+  "hoek@2.13.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hapijs/hoek",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE"
+  },
+  "hooks-fixed@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vkarpov15/hooks-fixed"
+  },
+  "http-signature@0.10.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/joyent/node-http-signature",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/LICENSE"
+  },
+  "hyperquest@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/hyperquest",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/hyperquest/LICENSE"
+  },
+  "iconv-lite@0.4.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ashtuchkin/iconv-lite",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/iconv-lite/LICENSE"
+  },
+  "inflight@1.0.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inflight",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/node_modules/inflight/LICENSE"
+  },
+  "inherits@2.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/inherits",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/readable-stream/node_modules/inherits/LICENSE"
+  },
+  "ini@1.3.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/ini",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rc/node_modules/ini/LICENSE"
+  },
+  "ipaddr.js@0.1.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/whitequark/ipaddr.js",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE"
+  },
+  "is-my-json-valid@2.10.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mafintosh/is-my-json-valid",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/LICENSE"
+  },
+  "is-property@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mikolalysenko/is-property",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/LICENSE"
+  },
+  "isarray@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/isarray"
+  },
+  "isstream@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/isstream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/isstream/LICENSE.md"
+  },
+  "jade@0.26.3": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/jade",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mocha/node_modules/jade/LICENSE"
+  },
+  "jju@1.2.0": {
+    "licenses": "WTFPL",
+    "repository": "https://github.com/rlidwka/jju"
+  },
+  "jslint@0.9.0-pre006": {
+    "licenses": "Modified MIT / BSD",
+    "repository": "https://github.com/reid/node-jslint",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/jslint/LICENSE"
+  },
+  "json-parse-helpfulerror@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/smikes/json-parse-helpfulerror",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/node_modules/json-parse-helpfulerror/LICENSE"
+  },
+  "json-stringify-safe@5.0.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/json-stringify-safe",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/json-stringify-safe/LICENSE"
+  },
+  "jsonpointer@1.1.0": {
+    "licenses": "MIT*",
+    "repository": "http://github.com/janl/node-jsonpointer"
+  },
+  "kareem@1.0.0": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/vkarpov15/kareem",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/kareem/LICENSE"
+  },
+  "kerberos@0.0.10": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/christkv/kerberos",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/kerberos/LICENSE"
+  },
+  "keygrip@1.0.1": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/expressjs/keygrip",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/cookie-session/node_modules/cookies/node_modules/keygrip/LICENSE.txt"
+  },
+  "libbase64@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/libbase64",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/buildmail/node_modules/libbase64/LICENSE"
+  },
+  "libmime@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/libmime",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/libmime/LICENSE"
+  },
+  "libqp@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/libqp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/libmime/node_modules/libqp/LICENSE"
+  },
+  "license-checker@3.0.1": {
+    "licenses": "BSD",
+    "repository": "http://github.com/davglass/license-checker",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/LICENSE"
+  },
+  "lodash._basetostring@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/node_modules/lodash._basetostring/LICENSE.txt"
+  },
+  "lodash._createpadding@3.6.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/node_modules/lodash._createpadding/LICENSE.txt"
+  },
+  "lodash.pad@3.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/LICENSE.txt"
+  },
+  "lodash.padleft@3.1.1": {
+    "licenses": "MIT",
+    "repository": "git+https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.padleft/LICENSE.txt"
+  },
+  "lodash.padright@3.1.1": {
+    "licenses": "MIT",
+    "repository": "git+https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.padright/LICENSE.txt"
+  },
+  "lodash.repeat@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/gauge/node_modules/lodash.pad/node_modules/lodash._createpadding/node_modules/lodash.repeat/LICENSE.txt"
+  },
+  "lodash@3.8.0": {
+    "licenses": "MIT",
+    "repository": "git+https://github.com/lodash/lodash",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/lodash/LICENSE.txt"
+  },
+  "lru-cache@2.6.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/node-lru-cache",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream-ignore/node_modules/minimatch/node_modules/lru-cache/LICENSE"
+  },
+  "lusca@1.1.0": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/krakenjs/lusca",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/lusca/LICENSE.txt"
+  },
+  "media-typer@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/media-typer",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/LICENSE"
+  },
+  "merge-descriptors@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/component/merge-descriptors",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/merge-descriptors/LICENSE"
+  },
+  "method-override@2.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/method-override",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/method-override/LICENSE"
+  },
+  "methods@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/node-methods",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/methods/LICENSE"
+  },
+  "methods@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/methods",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/methods/LICENSE"
+  },
+  "mime-db@1.8.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE"
+  },
+  "mime-db@1.9.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/node_modules/compressible/node_modules/mime-db/LICENSE"
+  },
+  "mime-types@2.0.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/LICENSE"
+  },
+  "mime@1.2.11": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/broofa/node-mime",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/mime/LICENSE"
+  },
+  "mime@1.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-mime",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/send/node_modules/mime/LICENSE"
+  },
+  "minimatch@0.2.14": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/minimatch",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream-ignore/node_modules/minimatch/LICENSE"
+  },
+  "minimatch@2.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/minimatch",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/node_modules/minimatch/LICENSE"
+  },
+  "minimist@0.0.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/minimist",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rc/node_modules/minimist/LICENSE"
+  },
+  "minimist@0.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/minimist",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/mkdirp/node_modules/minimist/LICENSE"
+  },
+  "mkdirp@0.3.0": {
+    "licenses": "MIT/X11",
+    "repository": "https://github.com/substack/node-mkdirp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mocha/node_modules/jade/node_modules/mkdirp/LICENSE"
+  },
+  "mkdirp@0.3.5": {
+    "licenses": "MIT",
+    "repository": "http://github.com/substack/node-mkdirp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/node_modules/mkdirp/LICENSE"
+  },
+  "mkdirp@0.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-mkdirp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/mkdirp/LICENSE"
+  },
+  "mocha@2.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mochajs/mocha",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mocha/LICENSE"
+  },
+  "mongodb-core@1.1.21": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/christkv/mongodb-core",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/LICENSE"
+  },
+  "mongodb-core@1.1.25": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/christkv/mongodb-core",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/LICENSE"
+  },
+  "mongodb@2.0.27": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/mongodb/node-mongodb-native",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mongodb/LICENSE"
+  },
+  "mongodb@2.0.28": {
+    "licenses": "Apache 2.0",
+    "repository": "https://github.com/mongodb/node-mongodb-native",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/LICENSE"
+  },
+  "mongoose@4.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/LearnBoost/mongoose"
+  },
+  "morgan@1.5.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/morgan",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/morgan/LICENSE"
+  },
+  "mpath@0.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/mpath",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mpath/LICENSE"
+  },
+  "mpromise@0.5.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/mpromise",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mpromise/LICENSE"
+  },
+  "mquery@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/mquery",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mquery/LICENSE"
+  },
+  "ms@0.1.0": {
+    "licenses": "UNKNOWN"
+  },
+  "ms@0.6.2": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/guille/ms.js"
+  },
+  "ms@0.7.0": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/guille/ms.js",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/debug/node_modules/ms/LICENSE"
+  },
+  "multer@0.1.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/multer",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/LICENSE"
+  },
+  "muri@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/muri",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/muri/LICENSE"
+  },
+  "nan@1.7.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/nan",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/bcrypt/node_modules/nan/LICENSE.md"
+  },
+  "native-or-bluebird@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/normalize/native-or-bluebird",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express-session/node_modules/uid-safe/node_modules/native-or-bluebird/LICENSE"
+  },
+  "negotiator@0.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/negotiator",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/node_modules/accepts/node_modules/negotiator/LICENSE"
+  },
+  "node-mailer@0.1.1": {
+    "licenses": "UNKNOWN",
+    "repository": "https://github.com/srod/node-minify"
+  },
+  "node-pre-gyp@0.6.4": {
+    "licenses": "BSD",
+    "repository": "https://github.com/mapbox/node-pre-gyp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/LICENSE"
+  },
+  "node-uuid@1.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/broofa/node-uuid",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/node-uuid/LICENSE.md"
+  },
+  "nodemailer-direct-transport@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/nodemailer-direct-transport",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/nodemailer-direct-transport/LICENSE"
+  },
+  "nodemailer-smtp-transport@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/nodemailer-smtp-transport",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/nodemailer-smtp-transport/LICENSE"
+  },
+  "nodemailer-wellknown@0.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/nodemailer-wellknown",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/nodemailer-smtp-transport/node_modules/nodemailer-wellknown/LICENSE"
+  },
+  "nodemailer@1.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/Nodemailer",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/LICENSE"
+  },
+  "nopt@2.2.1": {
+    "licenses": "MIT",
+    "repository": "http://github.com/isaacs/nopt",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/nopt/LICENSE"
+  },
+  "nopt@3.0.1": {
+    "licenses": "MIT",
+    "repository": "http://github.com/isaacs/nopt",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/nopt/LICENSE"
+  },
+  "normalize-package-data@1.0.3": {
+    "licenses": "BSD*",
+    "repository": "https://github.com/meryn/normalize-package-data",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/node_modules/normalize-package-data/LICENSE"
+  },
+  "npmlog@1.2.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/npmlog",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/LICENSE"
+  },
+  "oauth-sign@0.6.0": {
+    "licenses": "Apache*",
+    "repository": "https://github.com/mikeal/oauth-sign",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/oauth-sign/LICENSE"
+  },
+  "oauth@0.9.12": {
+    "licenses": "MIT",
+    "repository": "http://github.com/ciaranj/node-oauth",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-facebook/node_modules/passport-oauth2/node_modules/oauth/LICENSE"
+  },
+  "on-finished@2.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-finished",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/on-finished/LICENSE"
+  },
+  "on-headers@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/on-headers",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/node_modules/on-headers/LICENSE"
+  },
+  "once@1.1.1": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/once",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/once/LICENSE"
+  },
+  "once@1.3.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/once",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/node_modules/once/LICENSE"
+  },
+  "openid@0.5.11": {
+    "licenses": "MIT",
+    "repository": "http://github.com/havard/node-openid",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-google/node_modules/passport-openid/node_modules/openid/LICENSE"
+  },
+  "optimist@0.6.1": {
+    "licenses": "MIT/X11",
+    "repository": "http://github.com/substack/node-optimist",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/optimist/LICENSE"
+  },
+  "parseurl@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/parseurl",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/parseurl/LICENSE"
+  },
+  "passport-facebook@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport-facebook",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-facebook/LICENSE"
+  },
+  "passport-google@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport-google",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-google/LICENSE"
+  },
+  "passport-local@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport-local",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-local/LICENSE"
+  },
+  "passport-oauth2@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport-oauth2",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-facebook/node_modules/passport-oauth2/LICENSE"
+  },
+  "passport-openid@0.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport-openid",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-google/node_modules/passport-openid/LICENSE"
+  },
+  "passport-strategy@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport-strategy",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport/node_modules/passport-strategy/LICENSE"
+  },
+  "passport@0.1.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-google/node_modules/passport-openid/node_modules/passport/LICENSE"
+  },
+  "passport@0.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/passport",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport/LICENSE"
+  },
+  "path-is-absolute@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-is-absolute",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/node_modules/glob/node_modules/path-is-absolute/license"
+  },
+  "path-to-regexp@0.1.3": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/component/path-to-regexp"
+  },
+  "pause@0.0.1": {
+    "licenses": "MIT*"
+  },
+  "pkginfo@0.2.3": {
+    "licenses": "UNKNOWN",
+    "repository": "http://github.com/indexzero/node-pkginfo"
+  },
+  "proxy-addr@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/proxy-addr",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/proxy-addr/LICENSE"
+  },
+  "qs@1.2.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hapijs/qs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/qs/LICENSE"
+  },
+  "qs@1.2.2": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hapijs/qs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/node_modules/qs/LICENSE"
+  },
+  "qs@2.4.1": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hapijs/qs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/qs/LICENSE"
+  },
+  "range-parser@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/range-parser",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/range-parser/LICENSE"
+  },
+  "raw-body@1.3.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/stream-utils/raw-body",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/raw-body/LICENSE"
+  },
+  "rc@1.0.1": {
+    "licenses": [
+      "BSD",
+      "MIT",
+      "Apache2"
+    ],
+    "repository": "https://github.com/dominictarr/rc",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rc/LICENSE.MIT"
+  },
+  "read-installed@3.1.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/read-installed",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/LICENSE"
+  },
+  "read-package-json@1.3.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/read-package-json",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/read-package-json/LICENSE"
+  },
+  "readable-stream@1.0.27-1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/readable-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/readable-stream/LICENSE"
+  },
+  "readable-stream@1.0.31": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/readable-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/readable-stream/LICENSE"
+  },
+  "readable-stream@1.0.33": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/readable-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/hyperquest/node_modules/through2/node_modules/readable-stream/LICENSE"
+  },
+  "readable-stream@1.1.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/readable-stream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/readable-stream/LICENSE"
+  },
+  "readdir-scoped-modules@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/readdir-scoped-modules",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/readdir-scoped-modules/LICENSE"
+  },
+  "reduce-component@1.0.1": {
+    "licenses": "Apache, Version 2.0",
+    "repository": "https://github.com/redventures/reduce",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/node_modules/reduce-component/LICENSE"
+  },
+  "regexp-clone@0.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/regexp-clone",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/regexp-clone/LICENSE"
+  },
+  "request@2.55.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/request/request",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/LICENSE"
+  },
+  "rimraf@2.2.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/rimraf",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/rimraf/LICENSE"
+  },
+  "rimraf@2.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/rimraf",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/rimraf/LICENSE"
+  },
+  "rimraf@2.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/rimraf",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/LICENSE"
+  },
+  "semver@4.3.3": {
+    "licenses": "BSD",
+    "repository": "https://github.com/npm/node-semver",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/semver/LICENSE"
+  },
+  "semver@4.3.4": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/semver/LICENSE"
+  },
+  "send@0.12.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pillarjs/send",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/send/LICENSE"
+  },
+  "serve-static@1.9.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/expressjs/serve-static",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/serve-static/LICENSE"
+  },
+  "sigmund@1.0.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/sigmund",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/fstream-ignore/node_modules/minimatch/node_modules/sigmund/LICENSE"
+  },
+  "sliced@0.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/aheckmann/sliced",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mongoose/node_modules/sliced/LICENSE"
+  },
+  "slide@1.1.6": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/slide-flow-control",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/license-checker/node_modules/read-installed/node_modules/slide/LICENSE"
+  },
+  "smtp-connection@1.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/andris9/smtp-connection",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/nodemailer-direct-transport/node_modules/smtp-connection/LICENSE"
+  },
+  "sntp@1.0.9": {
+    "licenses": "BSD",
+    "repository": "https://github.com/hueniverse/sntp",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/node_modules/sntp/LICENSE"
+  },
+  "source-map@0.1.34": {
+    "licenses": "BSD",
+    "repository": "http://github.com/mozilla/source-map",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/node_modules/source-map/LICENSE"
+  },
+  "streamsearch@0.1.2": {
+    "licenses": "MIT",
+    "repository": "http://github.com/mscdex/streamsearch",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/node_modules/busboy/node_modules/dicer/node_modules/streamsearch/LICENSE"
+  },
+  "string_decoder@0.10.31": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/string_decoder",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/readable-stream/node_modules/string_decoder/LICENSE"
+  },
+  "stringstream@0.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mhart/StringStream",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/stringstream/LICENSE.txt"
+  },
+  "strip-ansi@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-ansi"
+  },
+  "strip-ansi@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-ansi"
+  },
+  "strip-json-comments@0.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-json-comments"
+  },
+  "superagent@0.21.0": {
+    "licenses": "MIT*",
+    "repository": "https://github.com/visionmedia/superagent",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/node_modules/superagent/LICENSE"
+  },
+  "supertest@0.15.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/visionmedia/supertest",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/supertest/LICENSE"
+  },
+  "supports-color@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/supports-color"
+  },
+  "supports-color@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/supports-color",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/mocha/node_modules/supports-color/license"
+  },
+  "supports-color@1.3.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/supports-color",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/supports-color/license"
+  },
+  "swig@1.4.2": {
+    "licenses": "MIT",
+    "repository": "http://github.com/paularmstrong/swig",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/LICENSE"
+  },
+  "tar-pack@2.0.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/ForbesLindesay/tar-pack"
+  },
+  "tar@0.1.20": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/node-tar",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/tar/LICENCE"
+  },
+  "tar@2.1.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/node-tar",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar/LICENCE"
+  },
+  "through2@0.6.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rvagg/through2",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/node-mailer/node_modules/nodemailer/node_modules/hyperquest/node_modules/through2/LICENSE"
+  },
+  "tough-cookie@1.1.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/SalesforceEng/tough-cookie",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/tough-cookie/LICENSE"
+  },
+  "treeify@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/notatestuser/treeify"
+  },
+  "tunnel-agent@0.4.0": {
+    "licenses": "Apache*",
+    "repository": "https://github.com/mikeal/tunnel-agent",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/tunnel-agent/LICENSE"
+  },
+  "type-detect@0.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chaijs/type-detect"
+  },
+  "type-is@1.5.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/multer/node_modules/type-is/LICENSE"
+  },
+  "type-is@1.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/type-is",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/body-parser/node_modules/type-is/LICENSE"
+  },
+  "uglify-js@2.4.21": {
+    "licenses": "BSD",
+    "repository": "https://github.com/mishoo/UglifyJS2",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/LICENSE"
+  },
+  "uglify-to-browserify@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ForbesLindesay/uglify-to-browserify",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/node_modules/uglify-to-browserify/LICENSE"
+  },
+  "uid-number@0.0.3": {
+    "licenses": "BSD",
+    "repository": "https://github.com/isaacs/uid-number",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/tar-pack/node_modules/uid-number/LICENCE"
+  },
+  "uid-safe@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/crypto-utils/uid-safe",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express-session/node_modules/uid-safe/LICENSE"
+  },
+  "uid2@0.0.3": {
+    "licenses": "MIT*",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/passport-facebook/node_modules/passport-oauth2/node_modules/uid2/LICENSE"
+  },
+  "util-extend@1.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/isaacs/util-extend"
+  },
+  "utils-merge@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredhanson/utils-merge",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express/node_modules/utils-merge/LICENSE"
+  },
+  "validator@3.39.0": {
+    "licenses": "MIT",
+    "repository": "http://github.com/chriso/validator.js",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/express-validate/node_modules/validator/LICENSE"
+  },
+  "vary@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/vary",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/compression/node_modules/vary/LICENSE"
+  },
+  "window-size@0.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/window-size",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/LICENSE-MIT"
+  },
+  "wordwrap@0.0.2": {
+    "licenses": "MIT/X11",
+    "repository": "https://github.com/substack/node-wordwrap"
+  },
+  "wrappy@1.0.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/wrappy",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/rimraf/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE"
+  },
+  "xtend@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/xtend",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/connect-mongo/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/node_modules/bson-ext/node_modules/node-pre-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/xtend/LICENCE"
+  },
+  "yargs@3.5.4": {
+    "licenses": "MIT/X11",
+    "repository": "http://github.com/bcoe/yargs",
+    "licenseFile": "/Users/brandon/Documents/Cyberia/server/node_modules/swig/node_modules/uglify-js/node_modules/yargs/LICENSE"
+  }
+}
