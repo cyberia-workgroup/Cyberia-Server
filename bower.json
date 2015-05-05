@@ -1,0 +1,25 @@
+{
+  "name": "cyberia-server",
+  "version": "0.0.1",
+  "homepage": "https://github.com/brandonhesse/Cyberia-Server",
+  "authors": [
+    "BDHesse <BDHesse@gmail.com>"
+  ],
+  "description": "A express 4/node backend for the Cyberia RP API",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "node"
+  ],
+  "license": "LGPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
