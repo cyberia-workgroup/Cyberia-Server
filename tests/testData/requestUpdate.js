@@ -36,7 +36,16 @@ var testData = testData || {};
                     }
                 }
             }
-
+        },
+        universeMap: {
+            '<universeId>':  {
+                'name': 'A',
+                spaceMap: {
+                    '<spaceId>': {
+                        'name': 'Sol'
+                    }
+                }
+            }
         }
 
     };
