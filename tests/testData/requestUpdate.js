@@ -23,6 +23,7 @@ var testData = testData || {};
         },
         userMap: {
             '<id>': {
+                accountName: 'Jane Doe',
                 profileMap:{
                     '<profileId>': {
                         name: 'Sara Smith',
