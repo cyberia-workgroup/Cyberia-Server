@@ -4,7 +4,8 @@
         requestMethod: 'POST',
         requestUrl:'/me/profiles',
         request: {
-
+            name: '<profileName>',
+            gender: '<integer>'
         },
         response: { url: '/me/profiles/<profileId>' }
     };

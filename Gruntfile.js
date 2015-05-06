@@ -1,3 +1,5 @@
+var shelljs = require('shelljs');
+
 module.exports = function(grunt){
 
     var meta = require('./utils/meta');
@@ -44,7 +46,7 @@ module.exports = function(grunt){
         watch: {
             scripts: {
                 files: files.jshint,
-                tasks: ['jshint']
+                tasks: ['jshint', 'runJasmine']
             }
         }
     });
@@ -56,4 +58,12 @@ module.exports = function(grunt){
     ].forEach(grunt.loadNpmTasks);
     grunt.registerTask('default', ['jshint']);
     grunt.registerTask('buildTestData', ['jshint', 'concat:testBrowser', 'concat:testNode']);
+    grunt.registerTask('runJasmine', 'run Jasmine spec tests inside nodejs',
+        function() {
+            var exitInfo = shelljs.exec('jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json');
+            if (exitInfo.code !== 0) {
+                grunt.fail.fatal('Specs Failed', exitInfo.code);
+            }
+        }
+    );
 };
