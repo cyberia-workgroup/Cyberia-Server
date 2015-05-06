@@ -23,30 +23,29 @@ var testData = testData || {};
                     passedOn: false,
 
                 }
-            ]
-        },
-        userMap: {
-            '<id>': {
-                accountName: 'Jane Doe',
-                profileMap:{
-                    '<profileId>': {
-                        name: 'Sara Smith',
-                        gender: 0,
-                        color: '#FF3030'
+            ],
+            userMap: {
+                '<id>': {
+                    accountName: 'Jane Doe',
+                    profileMap:{
+                        '<profileId>': {
+                            name: 'Sara Smith',
+                            gender: 0,
+                            color: '#FF3030'
+                        }
                     }
                 }
-            }
-        },
-        universeMap: {
-            '<universeId>':  {
-                'name': 'A',
-                spaceMap: {
-                    '<spaceId>': {
-                        'name': 'Sol'
+            },
+            universeMap: {
+                '<universeId>':  {
+                    'name': 'A',
+                    spaceMap: {
+                        '<spaceId>': {
+                            'name': 'Sol'
+                        }
                     }
                 }
             }
         }
-
     };
 })(testData);
