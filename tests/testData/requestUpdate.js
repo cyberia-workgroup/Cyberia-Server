@@ -3,11 +3,14 @@
  * Javascript is no excuse to write bad code.™
  */
 var testData = testData || {};
+function getISODate() {
+    return (new Date()).toISOString();
+}
 
 (function (testData, undefined) {
     'use strict';
     testData.requestUpdate = {
-        requestUrl:'/user/null/posts?since='+Date.now().toISOString(),
+        requestUrl:'/user/null/posts?since='+getISODate(),
         request: null,
         response: {
             update: [
@@ -15,8 +18,8 @@ var testData = testData || {};
                     postId: '<postId>',
                     spaceId:'<spaceId>',
                     universeId: '<universeId>',
-                    posted: Date.now().toISOString(),
-                    updated: Date.now().toISOString(),
+                    posted: getISODate(),
+                    updated: getISODate(),
                     user: '<id>',
                     profile: '<profileId>',
                     message: '<strong>First</strong> <small>post</small>!',
@@ -51,3 +54,5 @@ var testData = testData || {};
         }
     };
 })(testData);
+
+module.exports = testData;
