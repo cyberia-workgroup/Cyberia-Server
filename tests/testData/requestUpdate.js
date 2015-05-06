@@ -41,7 +41,9 @@ var testData = testData || {};
                     'name': 'A',
                     spaceMap: {
                         '<spaceId>': {
-                            'name': 'Sol'
+                            'name': 'Sol',
+                            watchers: 0,
+                            participants: ['<userId>']
                         }
                     }
                 }
