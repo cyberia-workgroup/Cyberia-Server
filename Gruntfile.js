@@ -2,7 +2,7 @@ module.exports = function(grunt){
 
     // Files to use rather than try and use grunt.utils
     var files = {
-
+        jshint: ['Gruntfile.js', 'app/**/*.js', 'tests/**/*.js']
     };
 
     grunt.initConfig({
@@ -10,7 +10,7 @@ module.exports = function(grunt){
         pkg: grunt.file.readJSON('package.json'),
         jshint: {
             // Add the files to look at
-            files: ['Gruntfile.js', 'app/**/*.js', 'tests/**/*.js'],
+            files: files.jshint
 
         },
         concat: {
@@ -26,7 +26,7 @@ module.exports = function(grunt){
             }
         },
         watch: {
-            files: ['<%= jshint.files %>'],
+            files: files.jshint,
             tasks: ['jshint']
         }
     });
