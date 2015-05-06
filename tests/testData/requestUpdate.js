@@ -2,8 +2,6 @@
  * Created by RKGladson on 5/5/15.
  * Javascript is no excuse to write bad code.™
  */
-var testData = testData || {};
-
 (function (testData, undefined) {
     'use strict';
     function getISODate() {
@@ -56,5 +54,3 @@ var testData = testData || {};
         }
     };
 })(testData);
-
-module.exports = testData;

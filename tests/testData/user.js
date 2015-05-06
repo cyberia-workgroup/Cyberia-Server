@@ -1,5 +1,3 @@
-var testData = testData || {};
-
 (function (testData, undefined) {
     'use strict';
     testData.createCharacterProfile = {
@@ -12,5 +10,3 @@ var testData = testData || {};
     }
 
 })(testData);
-
-module.exports = testData;
