@@ -7,10 +7,11 @@ var express = require('express'),
     methodOverride = require('method-override'),
     lusca = require('lusca'),
     multer = require('multer'),
+    compress = require('compression'),
     swig = require('swig'),
 
     _ = require('lodash'),
-    MongoStore = require('connect-mongo'),
+    MongoStore = require('connect-mongo')(session),
     path = require('path'),
     mongoose = require('mongoose'),
     passport = require('passport'),
@@ -19,9 +20,9 @@ var express = require('express'),
 
     app = express();
 
-
+// Load configuration files
 var config = require('./config/config');
-var database = require('./config/passport');
+var database = require('./config/database');
 var secrets = require('./config/secrets');
 
 // We'll work on this more
@@ -31,11 +32,16 @@ mongoose.connection.on('error', function() {
 });
 
 app.set('port', process.env.PORT || config.port || 3000);
-// This is where all the magic happens!
+// Set the renderer
 app.engine('html', swig.renderFile);
 app.set('view engine', 'html');
 app.set('views', path.join(__dirname, 'views'));
 
+// Set up express middleware
+app.use(compress());
+app.use(connectAssets({
+    paths: [path.join(__dirname, 'public/css'), path.join(__dirname, 'public/js')]
+}));
 app.use(logger(process.env.NODE_ENV || config.environment || 'dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -47,21 +53,23 @@ app.use(session({
     resave: true,
     saveUninitialized: true,
     secret: secrets.sessionSecret,
-    store: new MongoStore({ url: secrets.db, autoReconnect: true })
+    store: new MongoStore({ url: database.mongo.uri, autoReconnect: true })
 }));
 app.use(passport.initialize());
 app.use(passport.session());
-app.use(flash());
 app.use(lusca({
     csrf: true,
     xframe: 'SAMEORIGIN',
     xssProtection: true
 }));
 
-app.use(express.static(path.join(__dirname, 'public'), { maxAge: 31557600000 }));
+app.use(express.static(path.join(__dirname, 'public'), { maxAge: 1000 }));
 
 // Define routes
-
+app.get('/', function(req, res) {
+    // Sample
+   res.render('index', {});
+});
 
 /**
  * Error Handler.
