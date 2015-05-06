@@ -10,7 +10,7 @@ module.exports = function(grunt){
         pkg: grunt.file.readJSON('package.json'),
         jshint: {
             // Add the files to look at
-            files: ['Gruntfile.js', 'app/**/*.js', 'test/**/*.js'],
+            files: ['Gruntfile.js', 'app/**/*.js', 'tests/**/*.js'],
 
         },
         concat: {
