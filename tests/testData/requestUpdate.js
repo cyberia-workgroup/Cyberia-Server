@@ -3,13 +3,15 @@
  * Javascript is no excuse to write bad code.™
  */
 var testData = testData || {};
-function getISODate() {
-    return (new Date()).toISOString();
-}
 
 (function (testData, undefined) {
     'use strict';
+    function getISODate() {
+        return (new Date()).toISOString();
+    }
+
     testData.requestUpdate = {
+        method: 'GET',
         requestUrl:'/user/null/posts?since='+getISODate(),
         request: null,
         response: {
