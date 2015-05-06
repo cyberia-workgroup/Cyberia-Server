@@ -68,7 +68,7 @@ app.use(express.static(path.join(__dirname, 'public'), { maxAge: 1000 }));
 // Define routes
 app.get('/', function(req, res) {
     // Sample
-    var schema = require('./tests/testData/requestUpdate' );
+    var schema = require('./dist/tests/node-test-data' );
     res.render('index', { schema: schema });
 });
 

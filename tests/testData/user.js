@@ -6,7 +6,7 @@
         request: {
 
         },
-        response: {}
+        response: { url: '/me/profiles/<profileId>' }
     };
 
 })(testData);
