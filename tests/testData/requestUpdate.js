@@ -7,7 +7,8 @@ var testData = testData || {};
 (function (testData, undefined) {
     'use strict';
     testData.requestUpdate = {
-        request: {},
+        requestUrl:'/user/null/posts?since='+Date.now().toISOString(),
+        request: null,
         response: {
             update: [
                 {
