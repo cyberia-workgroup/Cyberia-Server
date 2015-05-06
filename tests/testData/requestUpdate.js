@@ -12,12 +12,16 @@ var testData = testData || {};
         response: {
             update: [
                 {
+                    postId: '<postId>',
+                    spaceId:'<spaceId>',
+                    universeId: '<universeId>',
                     posted: Date.now().toISOString(),
                     updated: Date.now().toISOString(),
                     user: '<id>',
                     profile: '<profileId>',
                     message: '<strong>First</strong> <small>post</small>!',
-                    passedOn: false
+                    passedOn: false,
+
                 }
             ]
         },
