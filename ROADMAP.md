@@ -3,6 +3,7 @@
 ## Version 0.0.1 - "All-devouring Manatee" ( **current** )
 Goals:
 
+* Set up project stack.
 * Basic API Data Definitions
     * Post request
     * Update joined spaces
