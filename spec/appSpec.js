@@ -19,8 +19,8 @@ describe('the server application', function() {
             .expect('Content-Type', /html/)
             .expect(200)
             .end(function(err, res) {
-                if (err) done.fail(err);
-                done(res);
+                expect(err).toBeFalsy();
+                done();
             })
         ;
     });
