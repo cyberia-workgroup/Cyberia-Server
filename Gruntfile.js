@@ -46,7 +46,7 @@ module.exports = function(grunt){
         watch: {
             scripts: {
                 files: files.jshint,
-                tasks: ['jshint', 'runJasmine']
+                tasks: ['jshint', 'jasmine:run']
             }
         }
     });
@@ -57,8 +57,8 @@ module.exports = function(grunt){
         'grunt-contrib-watch'
     ].forEach(grunt.loadNpmTasks);
     grunt.registerTask('default', ['jshint']);
-    grunt.registerTask('buildTestData', ['jshint', 'concat:testBrowser', 'concat:testNode']);
-    grunt.registerTask('runJasmine', 'run Jasmine spec tests inside nodejs',
+    grunt.registerTask('build:test:data', ['jshint', 'concat:testBrowser', 'concat:testNode']);
+    grunt.registerTask('jasmine:run', 'run Jasmine spec tests inside nodejs',
         function() {
             var exitInfo = shelljs.exec('jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json');
             if (exitInfo.code !== 0) {
@@ -66,5 +66,5 @@ module.exports = function(grunt){
             }
         }
     );
-    grunt.registerTask('build', ['buildTestData', 'runJasmine']);
+    grunt.registerTask('build', ['build:test:data', 'jasmine:run']);
 };

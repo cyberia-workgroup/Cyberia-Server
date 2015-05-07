@@ -42,7 +42,7 @@ app.use(compress());
 app.use(connectAssets({
     paths: [path.join(__dirname, 'public/css'), path.join(__dirname, 'public/js')]
 }));
-app.use(logger(process.env.NODE_ENV || config.environment || 'dev'));
+//app.use(logger(process.env.NODE_ENV || config.environment || 'dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(multer({ dest: path.join(__dirname, 'uploads') }));
@@ -81,7 +81,7 @@ app.use(errorHandler());
  * Start Express server.
  */
 app.listen(app.get('port'), function() {
-    console.log('Express server listening on port %d in %s mode', app.get('port'), app.get('env'));
+    //console.log('Express server listening on port %d in %s mode', app.get('port'), app.get('env'));
 });
 
 module.exports = app;
