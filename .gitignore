@@ -29,3 +29,6 @@ bower_components
 .idea/
 /dist/**/*.js
 !/dist/.gitkeep
+.DS_Store
+thumb.db
+*~
