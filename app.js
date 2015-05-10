@@ -1,3 +1,4 @@
+'use strict';
 var express = require('express'),
     cookieParser = require('cookie-parser'),
     session = require('express-session'),
@@ -11,9 +12,9 @@ var express = require('express'),
     swig = require('swig'),
 
     _ = require('lodash'),
+    mongoose = require('mongoose'),
     MongoStore = require('connect-mongo')(session),
     path = require('path'),
-    mongoose = require('mongoose'),
     passport = require('passport'),
     expressValidator = require('express-validator'),
     connectAssets = require('connect-assets'),
