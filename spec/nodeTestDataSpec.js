@@ -1,3 +1,5 @@
+/*globals cookie, it, expect, describe, beforeEach, */
+'use strict';
 var nodeTestData = require('../dist/tests/node-test-data');
 
 describe('node test data formation', function() {
@@ -14,6 +16,69 @@ describe('node test data formation', function() {
 
 
    });
+
+    describe('user.requests', function () {
+        it('should have a user object', function () {
+            expect(nodeTestData.user).toBeDefined();
+        });
+
+        describe('self', function () {
+            it('has a create self method', function () {
+                var testApi;
+                expect(testApi = nodeTestData.user && nodeTestData.user.create).toBeDefined();
+                expect(testApi.method).toBe('POST');
+                expect(testApi.requestUrl).toBeDefined();
+                expect(testApi.statusCode).toBe(200);
+                expect(testApi.request).toBeDefined();
+                expect(testApi.response).toBeDefined();
+            });
+            it('has a read self method', function (){
+                var testApi;
+                expect(testApi = nodeTestData.user && nodeTestData.user.readSelf).toBeDefined();
+                expect(testApi.method).toBe('GET');
+                expect(testApi.requestUrl).toBeDefined();
+                expect(testApi.statusCode).toBe(200);
+                expect(testApi.cookies).toBeDefined();
+                expect(testApi.request).toBeDefined();
+                expect(testApi.response).toBeDefined();
+
+            });
+            it('has a update self method.', function () {
+                var testApi;
+                expect(testApi = nodeTestData.user && nodeTestData.user.update).toBeDefined();
+                expect(testApi.method).toBe('PUT');
+                expect(testApi.requestUrl).toBeDefined();
+                expect(testApi.statusCode).toBe(200);
+                expect(testApi.cookies).toBeDefined();
+                expect(testApi.request).toBeDefined();
+                expect(testApi.response).toBeDefined();
+            });
+            it('has a delete method', function () {
+                var testApi;
+                expect(testApi = nodeTestData.user && nodeTestData.user.delete).toBeDefined();
+                expect(testApi.method).toBe('DELETE');
+                expect(testApi.requestUrl).toBeDefined();
+                expect(testApi.statusCode).toBe(204);
+                expect(testApi.cookies).toBeDefined();
+                expect(testApi.request).toBeNull();
+                expect(testApi.response).toBeNull();
+            });
+
+        });
+
+        describe('other',function () {
+
+            it('has a read other method', function() {
+                var testApi;
+                expect(testApi = nodeTestData.user && nodeTestData.user.read).toBeDefined();
+                expect(testApi.method).toBe('GET');
+                expect(testApi.requestUrl).toBeDefined();
+                expect(testApi.statusCode).toBe(200);
+                expect(testApi.request).toBeDefined();
+                expect(testApi.response).toBeDefined();
+            });
+        });
+    });
 
     describe('profile.requests', function() {
         it('has a create method', function() {
@@ -49,5 +114,7 @@ describe('node test data formation', function() {
             expect(nodeTestData.profile.read.response.name).toBeDefined();
             expect(nodeTestData.profile.read.response.gender).toBeDefined();
         });
-    })
+    });
+
+
 });

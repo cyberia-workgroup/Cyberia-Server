@@ -22,6 +22,7 @@ user.readSelf = {
     method: 'GET',
     requestUrl: '/me',
     statusCode: 200, //OK
+    cookies: {auth: cookie.auth},
     request: null, // Data should be in session? Or AuthToken? Or maybe header
     response: {
         userId: '<userId>',
