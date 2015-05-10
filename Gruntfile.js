@@ -1,7 +1,7 @@
 var shelljs = require('shelljs');
 
 module.exports = function(grunt){
-
+    'use strict';
     var meta = require('./utils/meta');
 
     // Files to use rather than try and use grunt.utils
@@ -67,4 +67,5 @@ module.exports = function(grunt){
         }
     );
     grunt.registerTask('build', ['build:test:data', 'jasmine:run']);
+    grunt.registerTask('test:all', ['build']);
 };
