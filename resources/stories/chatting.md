@@ -1,6 +1,11 @@
 # Chatting
-As an athorized user, I may edit any of my posts within a admin configured time range.
+As an authorized user, I may edit any of my posts within a admin configured time range.
 ## Universe
+As an authorized user, I may join an existing universe.
 
-## Places
+## Spaces
+As an authorized user, I may join a universe's OOC space.
+As an authorized user, I may post as my account in a universe's OOC Space.
+As an authorized user, I may join an existing public space.
+As an authorized user, I pay post in an existing spaces as any of my Profiles.
 
