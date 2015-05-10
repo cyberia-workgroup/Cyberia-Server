@@ -5,6 +5,16 @@ describe('node test data formation', function() {
         expect(nodeTestData).toBeDefined();
     });
 
+    describe('headers', function () {
+        it('should contain a cookie object with a test auth code', function () {
+            expect(nodeTestData.header).toBeDefined();
+            expect(nodeTestData.header.cookie).toBeDefined();
+            expect(typeof nodeTestData.header.cookie.auth).toBe('string');
+        });
+
+
+   });
+
     describe('profile.requests', function() {
         it('has a create method', function() {
             expect(nodeTestData.profile.create).toBeDefined();
