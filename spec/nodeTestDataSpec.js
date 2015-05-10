@@ -13,8 +13,6 @@ describe('node test data formation', function() {
             expect(nodeTestData.header.cookie).toBeDefined();
             expect(typeof nodeTestData.header.cookie.auth).toBe('string');
         });
-
-
    });
 
     describe('user.requests', function () {
@@ -81,40 +79,74 @@ describe('node test data formation', function() {
     });
 
     describe('profile.requests', function() {
-        it('has a create method', function() {
-            expect(nodeTestData.profile.create).toBeDefined();
-            expect(nodeTestData.profile.create.requestUrl).toBeDefined();
-            expect(nodeTestData.profile.create.method).toBe('POST');
-            expect(nodeTestData.profile.create.statusCode).toBe(201);
-            expect(nodeTestData.profile.create.response.url).toBeDefined();
-        });
-
-        it('has a delete method', function() {
-            expect(nodeTestData.profile.delete).toBeDefined();
-            expect(nodeTestData.profile.delete.requestUrl).toBeDefined();
-            expect(nodeTestData.profile.delete.method).toBe('DELETE');
-            expect(nodeTestData.profile.delete.statusCode).toBe(204);
-            expect(nodeTestData.profile.delete.request).toBeNull();
-            expect(nodeTestData.profile.delete.response).toBeNull();
-        });
-
-        it('has a update method', function() {
-            expect(nodeTestData.profile.update).toBeDefined();
-            expect(nodeTestData.profile.update.requestUrl).toBeDefined();
-            expect(nodeTestData.profile.update.method).toBe('PUT');
-            expect(nodeTestData.profile.update.statusCode).toBe(200);
-            expect(nodeTestData.profile.update.response).toBeDefined();
-        });
-
-        it('has a read method', function() {
-            expect(nodeTestData.profile.read).toBeDefined();
-            expect(nodeTestData.profile.read.requestUrl).toBeDefined();
-            expect(nodeTestData.profile.read.method).toBe('GET');
-            expect(nodeTestData.profile.read.statusCode).toBe(200);
-            expect(nodeTestData.profile.read.response.name).toBeDefined();
-            expect(nodeTestData.profile.read.response.gender).toBeDefined();
-        });
+    it('has a create method', function() {
+      expect(nodeTestData.profile.create).toBeDefined();
+      expect(nodeTestData.profile.create.requestUrl).toBeDefined();
+      expect(nodeTestData.profile.create.method).toBe('POST');
+      expect(nodeTestData.profile.create.statusCode).toBe(201);
+      expect(nodeTestData.profile.create.response.url).toBeDefined();
     });
 
+    it('has a delete method', function() {
+      expect(nodeTestData.profile.delete).toBeDefined();
+      expect(nodeTestData.profile.delete.requestUrl).toBeDefined();
+      expect(nodeTestData.profile.delete.method).toBe('DELETE');
+      expect(nodeTestData.profile.delete.statusCode).toBe(204);
+      expect(nodeTestData.profile.delete.request).toBeNull();
+      expect(nodeTestData.profile.delete.response).toBeNull();
+    });
 
+    it('has a update method', function() {
+      expect(nodeTestData.profile.update).toBeDefined();
+      expect(nodeTestData.profile.update.requestUrl).toBeDefined();
+      expect(nodeTestData.profile.update.method).toBe('PUT');
+      expect(nodeTestData.profile.update.statusCode).toBe(200);
+      expect(nodeTestData.profile.update.response).toBeDefined();
+    });
+
+    it('has a read method', function() {
+      expect(nodeTestData.profile.read).toBeDefined();
+      expect(nodeTestData.profile.read.requestUrl).toBeDefined();
+      expect(nodeTestData.profile.read.method).toBe('GET');
+      expect(nodeTestData.profile.read.statusCode).toBe(200);
+      expect(nodeTestData.profile.read.response.name).toBeDefined();
+      expect(nodeTestData.profile.read.response.gender).toBeDefined();
+    });
+  });
+
+  describe('space.requests', function() {
+    it('has a join method', function() {
+      expect(nodeTestData.space.join).toBeDefined();
+      expect(nodeTestData.space.join.requestUrl).toBeDefined();
+      expect(nodeTestData.space.join.method).toBe('POST');
+      expect(nodeTestData.space.join.statusCode).toBe(200);
+      expect(nodeTestData.space.join.response.space.id).toBeDefined();
+    });
+
+    it('has a leave method', function() {
+      expect(nodeTestData.space.leave).toBeDefined();
+      expect(nodeTestData.space.leave.requestUrl).toBeDefined();
+      expect(nodeTestData.space.leave.method).toBe('POST');
+      expect(nodeTestData.space.leave.statusCode).toBe(204);
+      expect(nodeTestData.space.leave.response).toBeNull();
+    });
+
+    it('has a create method', function() {
+      expect(nodeTestData.space.create).toBeDefined();
+      expect(nodeTestData.space.create.requestUrl).toBeDefined();
+      expect(nodeTestData.space.create.method).toBe('POST');
+      expect(nodeTestData.space.create.statusCode).toBe(201);
+      expect(nodeTestData.space.create.request.name).toBeDefined();
+      expect(nodeTestData.space.create.response._links.self).toBeDefined();
+    });
+
+    it('has a delete method', function() {
+      expect(nodeTestData.space.delete).toBeDefined();
+      expect(nodeTestData.space.delete.requestUrl).toBeDefined();
+      expect(nodeTestData.space.delete.method).toBe('DELETE');
+      expect(nodeTestData.space.delete.statusCode).toBe(204);
+      expect(nodeTestData.space.delete.request).toBeNull();
+      expect(nodeTestData.space.delete.response).toBeNull();
+    });
+  });
 });
