@@ -7,12 +7,10 @@ testing environment. This document assumes the following:
 2. You have **node and mongodb installed**.
 3. You have npm installed globally.
 4. You have Grunt installed globally. This requires admin rights.
-    
     ```sh
     npm i -g grunt grunt-cli
     ```
 5. You have Jasmine installed globally. This requires admin rights.
-
     ```sh
     npm i -g jasmine
     ```
