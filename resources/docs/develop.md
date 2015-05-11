@@ -23,9 +23,9 @@ testing environment. This document assumes the following:
 
 1. Move to the base of the project folder.
 2. Install the project dependencies.
-```sh
-npm install
-```
+  ```sh
+  npm install
+  ```
 3. Verify Run the tests to verify the pull is currently valid.
     
     ```sh
