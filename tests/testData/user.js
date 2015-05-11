@@ -91,7 +91,7 @@ profile.create = {
   request: {
     name: '<profileName>',
     gender: 'no gender|male|female|futa|etc',
-
+    orientation: 'asexual|homosexual|heterosexual|bisexual|etc'
   },
   response: {url: '/me/profiles/<profileId>'},
   statusCode: 201
@@ -103,7 +103,8 @@ profile.read = {
   request: null,
   response: {
     name: 'characterName',
-    gender: 'no gender|male|female|futa|etc'
+    gender: 'no gender|male|female|futa|etc',
+    orientation: 'asexual|homosexual|heterosexual|bisexual|etc'
   },
   statusCode: 200 // OK
 };

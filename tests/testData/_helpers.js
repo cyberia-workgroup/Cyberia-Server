@@ -1,3 +1,3 @@
 function getISODate() {
-    return (new Date()).toISOString();
+  return (new Date()).toISOString();
 }

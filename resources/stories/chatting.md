@@ -10,7 +10,7 @@
 - As an authorized user, I pay post in an existing spaces as any of my Profiles.
 - As an unauthorized user, I may receive posts in any protected space within a universe in which I have subscribed to.
 
-## Formatting
+## ßßFormatting
 - A user may use paragraphs, underline, small, lightened, bold, and italics within their post.
 - A user's posts formatting must be accessible to screen readers.
 - A user may strip font styles on their own display for accessibility reasons.
